@@ -1,7 +1,7 @@
 # class-transformer demo with angular 2
 
 Example how to use [class-transformer](https://github.com/pleerock/class-transformer) with angular 2.
-See this mode in [plunker](http://plnkr.co/edit/Mja1ZYAjVySWASMHVB9R).
+See this demo in [plunker](http://plnkr.co/edit/Mja1ZYAjVySWASMHVB9R).
 
 ## Installation
 
