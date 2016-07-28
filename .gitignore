@@ -1,0 +1,8 @@
+typings/
+build/
+node_modules/
+app/**/*.js
+app/**/*.js.map
+*.js
+*.js.map
+npm-debug.log
